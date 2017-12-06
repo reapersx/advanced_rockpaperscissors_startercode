@@ -1,3 +1,4 @@
+
 //Class 1:
         // Fork and clone the repo and set up your project workspace and link files
         // Write HTML for your project
@@ -16,7 +17,14 @@
 
 // *************************** YOUR CODE BELOW *******************************
 //******************TEST EARLY AND OFTEN USING console.log() ******************
-//****************** SERIOUSLY TEST USING console.log()!!! ******************
+//****************** SERIOUSLY TEST USING console.log()!!! ***************** 
+var userChoice ="";
+
+var computerChoice ="";
+
+var winner ="";
+
+var choices =["rock","paper", "scissors"];
 
 //GLOBAL VARIABLES
 
